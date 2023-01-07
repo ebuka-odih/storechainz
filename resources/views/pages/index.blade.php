@@ -33,7 +33,8 @@
                         </li>
                         <li class="col-5-12">
                             <ul class="slider autoplay clickable intro-slider ae-4" data-slider-id="screenshots">
-                                <li class="selected"><img src="https://www.coinomi.com/img/phone-screenshot-1.png" class="wide" alt="Screenshot 1" /></li>
+                                <li class="selected">
+                                <img src="https://www.coinomi.com/img/phone-screenshot-1.png" class="wide" alt="Screenshot 1" /></li>
                                 <li><img src="https://www.coinomi.com/img/phone-screenshot-2.png" class="wide" alt="Screenshot 2" /></li>
                                 <li><img src="https://www.coinomi.com/img/phone-screenshot-3.png" class="wide" alt="Screenshot 3" /></li>
                                 <li><img src="https://www.coinomi.com/img/phone-screenshot-4.png" class="wide" alt="Screenshot 4" /></li>

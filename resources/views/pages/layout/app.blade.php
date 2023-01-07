@@ -188,7 +188,11 @@
         </div>
     </div>
     <div class="sections compact hidden">
-        <div class="left"> <a href="index.html#" title="Coinomi"><svg class="coinomiLogoMobileTopBar"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div>
+        <div class="left">
+            <a href="{{ route('index') }}" title="Coinomi">
+                <h3 style="font-weight: bolder">StoreChainz</h3>
+            </a>
+        </div>
         <div class="right">
             <span class="button actionButton sidebarTrigger" data-sidebar-id="1"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu"></use></svg></span>
         </div>
@@ -198,7 +202,9 @@
 <nav class="sidebar blue" data-sidebar-id="1">
     <div class="close"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close"></use></svg></div>
     <div class="content">
-        <a href="https://www.coinomi.com/" title="Coinomi" class="logo"><svg width="120" height="50"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a>
+        <a href="https://www.coinomi.com/" title="Coinomi" class="logo">
+            <h3 style="font-weight: bolder">StoreChainz</h3>
+        </a>
         <ul class="mainMenu">
             <li><a href="index.html#why">Why Storechainz?</a></li>
             <li><a href="index.html#features">Features</a></li>
